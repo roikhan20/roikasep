@@ -1,0 +1,72 @@
+header{
+    /* padding: px; */
+    text-align: center;
+    font-size: 35px;
+    background-color: #388087 ;
+    padding-top: 30px;
+    padding-bottom: 100px;
+    padding-left: 35px;
+    height: 100px;
+}
+nav{
+    
+    margin-left: 700px;
+    margin-top: 60px;
+    
+
+}
+.home{ 
+    padding: 20px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color:  #f6f6f2;
+    text-decoration: none;
+    border-radius: 50%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.home:hover{
+    background-color: rgb(64, 154, 121);
+}   
+.komas{
+    padding: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    /* font-family: Arial, Helvetica, sans-serif; */
+    color:  #f6f6f2;
+    text-decoration: none;
+    border-radius: 50%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.komas:hover{
+    background-color: rgb(64, 154, 121);
+}
+.myproject{
+    padding: 20px;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:  #f6f6f2;
+    font-size: 20px;
+    border-radius: 50%;
+}
+.myproject:hover{
+    background-color: rgb(64, 154, 121);
+}
+.judul{
+    color: white;
+    text-align: left;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 0px;
+    margin: 0px;
+}
+.judul2{
+    color: white;
+    text-align: left;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 0px;
+    margin: 0px;
+}   
